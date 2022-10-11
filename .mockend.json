@@ -1,8 +1,9 @@
 {
 	"Preset":{
-		"name": {
-			"firstName": {
-				"regexp": "[A-Z][a-z]{5,10}"
+		"Name": {
+			"loremWords": {
+				"minLength": 5,
+				"maxLength": 10
 			}
 		},
 		"id": {
