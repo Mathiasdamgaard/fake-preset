@@ -12,7 +12,7 @@
 			}
 		},
 		"productType": {
-			"String": [
+			"string": [
 			"Plethora X1",
 			"Analogical",
 			"Hall of Fame"
