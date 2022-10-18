@@ -1,6 +1,6 @@
 {
 	"Preset":{
-		"Name": {
+		"name": {
 			"loremWords": {
 				"minLength": 5,
 				"maxLength": 10
