@@ -6,7 +6,7 @@
 				"maxLength": 10
 			}
 		},
-		"id": {
+		"presetId": {
 			"int": {
 				"min": 0, "max": 5000
 			}
@@ -17,6 +17,11 @@
 			"Analogical",
 			"Hall of Fame"
 			]
+		},
+		"index": {
+			"int":{
+				"min": 0, "max": 10000
+			}
 		}
 	}
 }
